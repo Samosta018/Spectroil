@@ -85,7 +85,7 @@ legend {
 /* Шрифты */
 @font-face {
     font-family: "Inter";
-    src: url("/fonts/Inter_18pt-Medium.woff2") format("woff2");
+    src: url("fonts/Inter_18pt-Medium.woff2") format("woff2");
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -93,7 +93,7 @@ legend {
 
 @font-face {
     font-family: "Inter";
-    src: url("/fonts/Inter_18pt-Regular.woff2") format("woff2");
+    src: url("fonts/Inter_18pt-Regular.woff2") format("woff2");
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -111,7 +111,7 @@ legend {
 body {
     font-family: "Inter", sans-serif;
 
-    background-image: url("/images/background.png");
+    background-image: url("images/background.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
